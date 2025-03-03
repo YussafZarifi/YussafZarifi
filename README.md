@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YussafZarifi
 - 👀 I’m interested in becoming software engineer
-- 🌱 I’m currently learning Java, javascript, html/css.
+- 🌱 I’m currently learning Java, python, javascript, html/css.
 - 💞️ I’m looking to collaborate in any project.
 - 📫 How to reach me. You can email me: t44ysf@gmail.com or you can use phone number: 905 869 7998
 <!---
